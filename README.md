@@ -5,13 +5,11 @@
 [![CSS3](https://img.shields.io/badge/CSS-3-blue)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.ecma-international.org/ecma-262/)
 
-Uma calculadora básica desenvolvida com HTML, CSS e JavaScript puro.  
-Projeto ideal para praticar manipulação do DOM, eventos e estilização responsiva.  
-Meu primeiro projeto frontend! 🚀
+Uma calculadora básica desenvolvida com **HTML, CSS e JavaScript**.
 
-## Screenshots
-![Calculadora em ação](./assets/screenshot1.png)
-![Modo claro/escuro](./assets/screenshot2.png)
+Este é o meu **primeiro projeto frontend**, criado com foco no aprendizado e na consolidação das três linguagens de programação. Busquei equilibrar o uso de cada linguagem, resultando em um código **limpo, organizado e 100% funcional**.
+
+O projeto está aberto a alterações e melhorias à medida que eu avanço nos estudos. Sugestões e contribuições são bem-vindas! 🚀
 
 ## Tecnologias Utilizadas
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -20,5 +18,5 @@ Meu primeiro projeto frontend! 🚀
 
 ## Como Executar
 1. Clone o repositório:
-   `git clone https://github.com/Staichak4/Calculador4Simples.git`bash 
+   `git clone https://github.com/Staichak4/Calculador4Simples.git` 
   
