@@ -3,7 +3,7 @@
             padding: 0;
         }
         .background{
-            background-image: linear-gradient(45deg,black, rgb(122, 42, 122));
+            background-color: rgb(37, 35, 35);
             height: 100vh;
             color: white;  
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
