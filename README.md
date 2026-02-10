@@ -20,5 +20,5 @@ Meu primeiro projeto frontend! 🚀
 
 ## Como Executar
 1. Clone o repositório:
-   ```bash
-  git clone https://github.com/Staichak4/Calculador4Simples.git
+   ```bash git clone https://github.com/Staichak4/Calculador4Simples.git
+  
