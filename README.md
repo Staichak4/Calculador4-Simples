@@ -1,4 +1,4 @@
-# *Calculador4 Simples*
+# *Calculador4*
 # Calculadora Simples 🧮
 
 [![HTML5](https://img.shields.io/badge/HTML-5-orange)](https://html.spec.whatwg.org/)
